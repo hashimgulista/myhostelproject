@@ -1,0 +1,21 @@
+.wrap
+{
+	width: 800px;
+	height: 700px;
+	margin: 30px auto;
+}
+.button
+{
+	text-align: center;
+	font-size: 16px;
+	vertical-align:bottom;
+}
+div 
+{  
+    margin: 20px;  
+    padding: 50px;  
+    background-color:#6abadeba;
+	width: 200px;  
+    font-family: 'Arial';
+	border:10px #6abadeba;  
+}  
